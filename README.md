@@ -13,5 +13,5 @@ By the end of the challenge, you will have a completed project that you can show
 
 So what are you waiting for? Join the 60 Days Code Challenge and take your coding skills to the next level!
 
-
+Projects are as menstion below.
 1)Notes - 11/03/2023
