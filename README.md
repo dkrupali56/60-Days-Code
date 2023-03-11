@@ -12,3 +12,6 @@ Your project can be anything you want, as long as it's a frontend project that u
 By the end of the challenge, you will have a completed project that you can showcase in your portfolio and demonstrate your skills to potential employers.
 
 So what are you waiting for? Join the 60 Days Code Challenge and take your coding skills to the next level!
+
+
+1)Notes - 11/03/2023
