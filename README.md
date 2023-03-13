@@ -16,3 +16,4 @@ So what are you waiting for? Join the 60 Days Code Challenge and take your codin
 Projects are as menstion below.
 1)Notes -             11/03/2023
 2)Color Flipper -     12/03/2023
+3)Auto-Text-Effect -  13/03/2023
