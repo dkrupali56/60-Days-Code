@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #f1f1f1;
+}
+
+.container {
+	max-width: 500px;
+	margin: 50px auto;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.stars {
+	display: flex;
+	justify-content: center;
+}
+
+.fas {
+	font-size: 30px;
+	color: gray;
+	cursor: pointer;
+	transition: color 0.2s;
+	margin: 0 5px;
+}
+
+.fas:hover,
+.fas.active {
+	color: gold;
+}
+
+.rating-text {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: bold;
+}
