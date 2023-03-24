@@ -1,20 +1,14 @@
-function clock() {
-    const hour = document.querySelector('.hour');
-    const minute = document.querySelector('.minute');
-    const second = document.querySelector('.second');
-    
-    let h = new Date().getHours();
-    let m = new Date().getMinutes();
-    let s = new Date().getSeconds();
-    
-    let hDeg = (h * 30) + (m / 2);
-    let mDeg = (m * 6);
-    let sDeg = (s * 6);
-    
-    hour.style.transform = `rotate(${hDeg}deg)`;
-    minute.style.transform = `rotate(${mDeg}deg)`;
-    second.style.transform = `rotate(${sDeg}deg)`;
-  }
+const clock = document.querySelector('.clock');
+
+function updateTime() {
+  const now = new Date();
+  const hours = now.getHours().toString().padStart(2, '0');
+  const minutes = now.getMinutes().toString().padStart(2, '0');
+  const seconds = now.getSeconds().toString().padStart(2, '0');
   
-  setInterval(clock, 1000);
-  
+  clock.querySelector('#hours').textContent = hours;
+  clock.querySelector('#minutes').textContent = minutes;
+  clock.querySelector('#seconds').textContent = seconds;
+}
+
+setInterval(updateTime, 1000);
