@@ -1,29 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Weather App</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h1>Weather App</h1>
-    <form>
-      <label for="location">Enter Location:</label>
-      <input type="text" id="location" name="location">
-      <button type="submit" id="submit">Get Weather</button>
-    </form>
-    <div id="current-weather">
-      <h2>Current Weather</h2>
-      <div id="weather-icon"></div>
-      <div id="weather-details"></div>
+  <head>
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Weather App</h1>
+      <div class="input">
+        <input type="text" placeholder="Enter location">
+        <button id="search-btn">Search</button>
+      </div>
+      <div class="output">
+        <div id="location"></div>
+        <div id="weather-icon"></div>
+        <div id="temperature"></div>
+        <div id="description"></div>
+      </div>
     </div>
-    <div id="forecast">
-      <h2>5-Day Forecast</h2>
-      <div id="forecast-details"></div>
-    </div>
-  </div>
-
-  <script src="app.js"></script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
