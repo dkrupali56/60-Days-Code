@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#password {
+    margin-top: 10px;
+    width: 100%;
+}
