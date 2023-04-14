@@ -1,0 +1,28 @@
+#drag-container {
+	display: flex;
+	justify-content: space-between;
+	margin: 50px;
+}
+
+.drag {
+	background-color: #4caf50;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: move;
+}
+
+.drop {
+	background-color: #d3d3d3;
+	padding: 20px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.drag:hover {
+	opacity: 0.7;
+}
+
+.drop:hover {
+	background-color: #bfbfbf;
+}
