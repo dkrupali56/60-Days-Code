@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    height: 100vh;
+    background-color: rgb(172, 171, 171);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header h1 {
+    color: #423e3e;
+    font-size: 48px;
+    text-shadow: 2px 2px #000;
+  }
+  
+  .content {
+    padding: 100px;
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content p {
+    font-size: 24px;
+    line-height: 1.5;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .content img {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+  }
+  
+  .footer {
+    height: 100vh;
+    background-color: antiquewhite;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer p {
+    color: #fff;
+    font-size: 24px;
+    text-shadow: 2px 2px #000;
+  }
+  
+  /* Add the parallax effect */
+  .parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
