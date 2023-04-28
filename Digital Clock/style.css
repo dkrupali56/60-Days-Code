@@ -1,13 +1,11 @@
-.clock {
+.clock-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
-    font-family: Arial, sans-serif;
-    background-color: #fff;
-    color: #333;
-    border: 2px solid #333;
-    border-radius: 5px;
-    padding: 0.5rem 1rem;
+    height: 100vh;
+  }
+  
+  #clock {
+    font-size: 80px;
   }
   
