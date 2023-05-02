@@ -1,0 +1,18 @@
+.text-effect {
+    font-size: 60px;
+    color: #333;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  #effect-1:hover {
+    text-shadow: 0 0 20px #ca1a1a;
+  }
+  
+  #effect-2:hover {
+    transform: skewX(20deg);
+  }
+  
+  #effect-3:hover {
+    color: #ff8c00;
+  }
+  
