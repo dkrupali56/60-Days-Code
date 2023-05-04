@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: #333;
+    transition: transform 0.9s ease-in-out;
+  }
+  
+  .box:hover {
+    transform: scale(1.2);
+  }
+  
+  .box1 {
+    background-color: #E91E63;
+  }
+  
+  .box2 {
+    background-color: #2196F3;
+  }
+  
+  .box3 {
+    background-color: #9C27B0;
+  }
+  
+  .box4 {
+    background-color: #4CAF50;
+  }
+  
+  .box5 {
+    background-color: #FFC107;
+  }
+  
