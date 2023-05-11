@@ -1,0 +1,23 @@
+canvas {
+	display: block;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+#controls {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+button, input[type="range"] {
+	margin: 0 10px;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+button:hover {
+	opacity: 0.7;
+}
