@@ -6,7 +6,7 @@ To improve my skills with projects I made "60-Days-Code". This is challenging fo
 At the end of 60 ndays, I have not only completed 60 unique projects, But also improved my frontend skills and through this projects I learnt to solve various types of errors and I gained valueable experience working on variety of different projects.Random Number Generator
 
 # List Of My 60 Projects
-Let's see what I create in just 60 days!
+I made this 60 projects during this challenge. Let's see what I create in just 60 days!
 1. 3D Boxes Background
 2. Accordion
 3. Animated Header
@@ -66,5 +66,5 @@ Let's see what I create in just 60 days!
 57. Transition Effect
 58. Vertical Slider
 59. Weather App
-60.  Web Page
-I made this 60 projects during this challenge. 
+60. Web Page
+ 
