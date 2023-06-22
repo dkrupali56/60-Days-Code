@@ -2,7 +2,7 @@ Hii there, Myself Krupali Desai. I'm currently working on frontend development.
 
 # 60-Days-Code
 
-To improve my skills with projects I made "60-Days-Code". This is challenging for me as a begginer still I complete this 60 days challenge. "60-days-code" is a grand challenge as a repository where I add  daily frontend projects for 60 consicutive days. As a coder, It is important to constantly practice and work with projects. For 2 months, I uploaded a new project to this repository, This gives me an opportunity to explore different patterns of syntax andd logics.   
+To improve my skills with projects I made "60-Days-Code". This is challenging for me as a begginer still I complete this 60 days challenge. "60-days-code" is a grand challenge as a repository where I add  daily frontend projects for 60 consicutive days using 3 web languages (HTML, CSS, JavaScript). As a coder, It is important to constantly practice and work with projects. For 2 months, I uploaded a new project to this repository, This gives me an opportunity to explore different patterns of syntax andd logics.   
 At the end of 60 days, I have not only completed 60 unique projects, But also improved my frontend skills and through this projects I learnt to solve various types of errors and I gained valueable experience working on variety of different projects.
 
 # List Of My 60 Projects
